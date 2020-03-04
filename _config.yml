@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
-type: git
-repo: https://github.com/wzh-star/wzh-star.github.io.git
-branch: master
+deploy:
+  type: git
+  repository: url
+  branch: master
